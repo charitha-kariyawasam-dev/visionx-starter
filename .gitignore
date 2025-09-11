@@ -1,0 +1,74 @@
+# Android/IntelliJ/Gradle
+.gradle/
+/local.properties
+/.idea/
+*.iml
+.DS_Store
+/build/
+app/build/
+open-cv-4-12-0/build/
+
+# OpenCV SDK artifacts
+open-cv-4-12-0/.externalNativeBuild/
+open-cv-4-12-0/.cxx/
+open-cv-4-12-0/native/libs/
+open-cv-4-12-0/native/bin/
+open-cv-4-12-0/native/staticlibs/
+open-cv-4-12-0/java/build/
+open-cv-4-12-0/java/.gradle/
+
+# IDE config
+.idea/
+.idea/*
+.idea/**
+.idea/gradle.xml
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Misc
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Keystore files
+*.jks
+
+# Test output
+/test-output/
+
+# Ignore generated reports
+/build/reports/
+
+# Ignore APKs
+*.apk
+
+# Ignore generated files
+*.class
+*.dex
+*.ap_
+
+# Ignore OpenCV build artifacts and binaries
+opencv/build/
+opencv/bin/
+opencv/libs/
+opencv/staticlibs/
+opencv/.externalNativeBuild/
+opencv/.cxx/
+opencv/outputs/
+opencv/tmp/
+opencv/**/build/
+opencv/**/bin/
+opencv/**/libs/
+opencv/**/staticlibs/
+opencv/**/.externalNativeBuild/
+opencv/**/.cxx/
+opencv/**/outputs/
+opencv/**/tmp/
+
+# Ignore OpenCV SDK zip
+opencv/opencv-android-sdk.zip
+FEATURE_PLAN.md
