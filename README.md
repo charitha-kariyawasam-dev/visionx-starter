@@ -11,7 +11,11 @@
 git clone https://github.com/charitha-kariyawasam-dev/visionx-starter.git
 cd visionx-starter
 ```
-Open the project in Android Studio.
+
+### Build
+1. Open the project in **Android Studio**.
+2. Perform a **Gradle Sync** (Android Studio may prompt you automatically, or you can use the "Sync Project with Gradle Files" button).
+3. The project will automatically download and extract OpenCV for Android. This process may take up to **10 minutes** on slow internet connections. Please wait until the download and extraction are complete before building or running the app.
 
 ---
 
