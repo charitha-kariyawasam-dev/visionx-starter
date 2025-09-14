@@ -1,6 +1,8 @@
 # VisionX Starter - Kotlin + OpenCV + CameraX Image Processing for Android
 
-![Demo of VisionX Starter](./demo.png)
+<div align="center">
+  <img src="demo.png" alt="Image 1" width="300" height="600">
+</div>
 
 > 🚀 **A beginner-friendly starter kit for image processing on Android using Kotlin, OpenCV, and CameraX.**
 > 
